@@ -1,0 +1,4 @@
+# PyTorch con CUDA se instala antes y por separado (ver README).
+openai-whisper>=20250625
+demucs>=4.0.1
+anthropic>=0.125.0

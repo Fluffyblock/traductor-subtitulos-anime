@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Videos, audio y subtítulos de trabajo: no se suben al repo
+*.mkv
+*.mp4
+*.flac
+*.wav
+*.ass
+*.ssa
+*.srt
+*.vtt
